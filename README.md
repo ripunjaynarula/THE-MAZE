@@ -28,10 +28,9 @@ EMU8086 - MICROPROCESSOR EMULATOR primarily emulates the processor, not the othe
 
 # USER-FLOW
 
-● The user will provide input with the help of arrow keys.
-● The program will then compare the position of the user in the maze and determine whether it's 0/1.
-● If the position is 0 we will update the position of the player and the score counter will be incremented.
-● Else if the position is 1 the player will stay at the same place but the score counter will still be incremented.
-● If the player reaches the exit of the maze the game will be terminated.
-● Finally, after the termination, the number of moves with a "WIN" message will be displayed on the screen.
+▪ The user will provide input with the help of arrow keys.
+▪ The program will then compare the position of the user in the maze and determine whether it's 0/1.
+▪ If the position is 0 we will update the position of the player and the score counter will be incremented.
+▪ Else if the position is 1 the player will stay at the same place but the score counter will still be incremented.
+▪ If the player reaches the exit of the maze the game will be terminated.
 
