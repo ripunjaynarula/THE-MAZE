@@ -17,20 +17,32 @@ EMU8086 - MICROPROCESSOR EMULATOR primarily emulates the processor, not the othe
 # ALGORITHM
 
 ▪ Start the program.
+
 ▪ Initialize all variables in the data segment.
+
 ▪ Give initial instructions for the player to understand how the game works.
+
 ▪ The maze is in the form of a matrix with 0’s and 1’s with 0’s as the final path.
+
 ▪ Input the matrix and take the address of each set of elements in a single row and load effective address in the SI.
+
 ▪ Write instructions for the player to move using arrow keys.
+
 ▪ If the player moves towards a “1” then the player is stationary, else he will move in the desired direction.
+
 ▪ Once the end of the maze is reached, we will display a victory image which shows that the player has won.
+
 ▪ End the program.
 
 # USER-FLOW
 
 ▪ The user will provide input with the help of arrow keys.
+
 ▪ The program will then compare the position of the user in the maze and determine whether it's 0/1.
+
 ▪ If the position is 0 we will update the position of the player and the score counter will be incremented.
+
 ▪ Else if the position is 1 the player will stay at the same place but the score counter will still be incremented.
+
 ▪ If the player reaches the exit of the maze the game will be terminated.
 
