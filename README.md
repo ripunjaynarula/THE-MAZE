@@ -46,3 +46,10 @@ EMU8086 - MICROPROCESSOR EMULATOR primarily emulates the processor, not the othe
 
 ▪ If the player reaches the exit of the maze the game will be terminated.
 
+# OUTPUT
+
+![image](https://user-images.githubusercontent.com/66082800/153725271-0d4afff3-a33c-49f2-b59b-6b4cc57162e7.png)
+
+![image](https://user-images.githubusercontent.com/66082800/153725299-1d61abe1-5c92-4ab4-be62-c97bf1058d49.png)
+
+![image](https://user-images.githubusercontent.com/66082800/153725350-8e7bb8be-4751-4969-98be-86b2f624991d.png)
